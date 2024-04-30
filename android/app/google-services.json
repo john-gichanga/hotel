@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "632537420527",
+    "firebase_url": "https://login-a8323-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "login-a8323",
+    "storage_bucket": "login-a8323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632537420527:android:289c587365d72da56c411a",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX12tDnQwUKdQgvwIPQgJuhBfCEVcjQDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632537420527:android:0ca9ee63790e429e6c411a",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX12tDnQwUKdQgvwIPQgJuhBfCEVcjQDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
