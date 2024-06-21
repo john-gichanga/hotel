@@ -41,53 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBziOe3J_ZcLvRcqBunGyQ-6D4FXT7E1tg',
-    appId: '1:632537420527:web:3c42002c669440d86c411a',
-    messagingSenderId: '632537420527',
-    projectId: 'login-a8323',
-    authDomain: 'login-a8323.firebaseapp.com',
-    databaseURL: 'https://login-a8323-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'login-a8323.appspot.com',
-    measurementId: 'G-N9RQC2DH5Q',
+    apiKey: 'AIzaSyDLCSWWnS49sOC2JgHfL_mYcFoWVQZaczg',
+    appId: '1:606688449179:web:0864f5d1cc671f819d6c3e',
+    messagingSenderId: '606688449179',
+    projectId: 'auth-6aabd',
+    authDomain: 'auth-6aabd.firebaseapp.com',
+    storageBucket: 'auth-6aabd.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDX12tDnQwUKdQgvwIPQgJuhBfCEVcjQDQ',
-    appId: '1:632537420527:android:289c587365d72da56c411a',
-    messagingSenderId: '632537420527',
-    projectId: 'login-a8323',
-    databaseURL: 'https://login-a8323-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'login-a8323.appspot.com',
+    apiKey: 'AIzaSyBx0XAhLg1wuNoWAWKuUfLhmLmX_oCJTZI',
+    appId: '1:606688449179:android:d896d175397aac609d6c3e',
+    messagingSenderId: '606688449179',
+    projectId: 'auth-6aabd',
+    storageBucket: 'auth-6aabd.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAOZ2z9oNw6e-meHr6GkmXiA-Mq3pn351A',
-    appId: '1:632537420527:ios:55e4b9362b15d4806c411a',
-    messagingSenderId: '632537420527',
-    projectId: 'login-a8323',
-    databaseURL: 'https://login-a8323-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'login-a8323.appspot.com',
-    iosBundleId: 'com.example.modernlogintute',
+    apiKey: 'AIzaSyBBgLMkJQs9POpYYK0TmGIwqkfGpTy41q8',
+    appId: '1:606688449179:ios:d91c85f062e189489d6c3e',
+    messagingSenderId: '606688449179',
+    projectId: 'auth-6aabd',
+    storageBucket: 'auth-6aabd.appspot.com',
+    iosBundleId: 'com.example.hotel',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAOZ2z9oNw6e-meHr6GkmXiA-Mq3pn351A',
-    appId: '1:632537420527:ios:55e4b9362b15d4806c411a',
-    messagingSenderId: '632537420527',
-    projectId: 'login-a8323',
-    databaseURL: 'https://login-a8323-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'login-a8323.appspot.com',
-    iosBundleId: 'com.example.modernlogintute',
+    apiKey: 'AIzaSyBBgLMkJQs9POpYYK0TmGIwqkfGpTy41q8',
+    appId: '1:606688449179:ios:d91c85f062e189489d6c3e',
+    messagingSenderId: '606688449179',
+    projectId: 'auth-6aabd',
+    storageBucket: 'auth-6aabd.appspot.com',
+    iosBundleId: 'com.example.hotel',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBziOe3J_ZcLvRcqBunGyQ-6D4FXT7E1tg',
-    appId: '1:632537420527:web:ed6a0d7ffdd8f0626c411a',
-    messagingSenderId: '632537420527',
-    projectId: 'login-a8323',
-    authDomain: 'login-a8323.firebaseapp.com',
-    databaseURL: 'https://login-a8323-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'login-a8323.appspot.com',
-    measurementId: 'G-FYD4M0BYYS',
+    apiKey: 'AIzaSyDLCSWWnS49sOC2JgHfL_mYcFoWVQZaczg',
+    appId: '1:606688449179:web:b865d2c68ee48f7e9d6c3e',
+    messagingSenderId: '606688449179',
+    projectId: 'auth-6aabd',
+    authDomain: 'auth-6aabd.firebaseapp.com',
+    storageBucket: 'auth-6aabd.appspot.com',
   );
+
 }
